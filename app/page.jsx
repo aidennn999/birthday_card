@@ -13,7 +13,7 @@ export default function Home() {
    <HeartAnimation />
 
    {/* Section 1: Kartu Ucapan */}
-   <section className="min-h-screen flex flex-col items-center justify-center p-4 relative">
+   <section className="min-h-screen flex flex-col items-center justify-center p-4 relative bg-gradient-to-b from-purple-100 to-pink-50">
     <BirthdayCard />
    </section>
 
